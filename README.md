@@ -18,6 +18,5 @@ Mini chatbot powered by OpenAI's GPT model. It can customized by adding differen
 
 ## Key insights
 - Individuals can build new AI models based on existing models like OpenAI
-- Less difficult than most people think
-- How to use existing models (ie. pass in the user's messages and generating a response)
-- Libraries are helpful
+- Making a new AI model is less difficult than most people think
+- Learned how to use existing models (ie. pass in the user's messages and generating a response)
