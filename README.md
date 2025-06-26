@@ -9,11 +9,12 @@ Mini chatbot powered by OpenAI's GPT model. It can customized by adding differen
 - Python 3.8+
 - `openai`
 - `.env` file with your OpenAI API key
+- uv package
 
 ## Usage
 - Install
 - Create a .env file with your API key like this (OPENAI_API_KEY=your_openai_api_key)
-- Run the python file
+- Run main.py
 
 ## Key insights
 - Individuals can build new AI models based on existing models like OpenAI
