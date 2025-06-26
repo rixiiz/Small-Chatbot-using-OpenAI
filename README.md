@@ -9,7 +9,7 @@ Mini chatbot powered by OpenAI's GPT model. It can customized by adding differen
 - Python 3.8+
 - `openai`
 - `.env` file with your OpenAI API key
-- uv package
+- `uv` package
 
 ## Usage
 - Install
